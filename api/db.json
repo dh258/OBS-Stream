@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Hello",
+      "description": "Test",
+      "userId": "109339781732997394890",
+      "id": 1
+    },
+    {
+      "title": "Biggo",
+      "description": "Diggo",
+      "id": 3
+    },
+    {
+      "title": "Hello",
+      "description": "Dul",
+      "userId": "109339781732997394890",
+      "id": 4
+    }
+  ]
+}
